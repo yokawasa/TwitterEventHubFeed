@@ -1,0 +1,21 @@
+{
+    "twitter_consumer_key" : "3x9ZsWABOPnKHQucOJ8VQU8fn",
+    "twitter_consumer_secret" : "EBbgwx0Ws4wGSps4N1gUxyjHIcEva0ofJPDzjhtJqnjr9YNbLz",
+    "twitter_access_token" : "14315426-4cuxGJpvLsvDpA7DH0joZxMppA9vigNb9Iy0fGCbc",
+    "twitter_access_secret" : "Ao7AuKJKo8x21GkWr0fkMSYMvoimuNjWgNQUqsTIGljEN",
+    "track_keywords" : [
+        "#CosmosDB",
+        "#ApacheSpark",
+        "#ChangeFeed",
+        "ChangeFeed",
+        "#MachineLearning",
+        "#BigData",
+        "#DataScience",
+        "#Mongo",
+        "#Graph"
+    ],
+    "eventhub_namespace" : "myeventhub01",
+    "eventhub_entity" : "tweets",
+    "eventhub_sas_key" : "mypolicy",
+    "eventhub_sas_value" : "Lg4xzv2qIvnZ+xlam6Gbq/7Whf8ZPMqQN6fRjbqzIhc="
+}

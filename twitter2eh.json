@@ -1,0 +1,15 @@
+{
+    "twitter_consumer_key" : "<Consumer Key for Twitter App>",
+    "twitter_consumer_secret" : "<Consumer Secret for Twitter App>",
+    "twitter_access_token" : "<Access Token for Twitter App>",
+    "twitter_access_secret" : "<Access Secret for Twitter App>",
+    "track_keywords" : [
+        "<Keyword or Hashtag>",
+        "<Keyword or Hashtag>",
+        "<Keyword or Hashtag>"
+    ],
+    "eventhub_namespace" : "<Event Hub Namespace>",
+    "eventhub_entity" : "<Event Hub Entity Name>",
+    "eventhub_sas_key" : "<Event Hub SAS Key Name>",
+    "eventhub_sas_value" : "<Event Hub SAS Value>"
+}
