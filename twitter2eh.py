@@ -15,7 +15,7 @@ import datetime
 import json
 
 ### Global Defines
-_TWITTER_EH_VERSION = '0.1.0'
+_TWITTER_EH_VERSION = '0.2.0'
 _TWITTER_EH_CONFIG_FILE = 'twitter2eh.json'
 
 def print_err(s):
