@@ -13,7 +13,7 @@ This project is a fork of the [TwitterCosmosDBFeed](https://github.com/tknandu/T
 
 ## Getting Started
 
-Install the package [twitter2eh](https://test.pypi.org/project/twitter2eh/) using pip:
+Install the package [twitter2eh](https://pypi.org/project/twitter2eh/) using pip:
 ```
 pip install twitter2eh
 or 
