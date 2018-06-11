@@ -1,5 +1,5 @@
 # TwitterEventHubFeed
-A command line tool that allow to stream feed from Twitter to EventHub. 
+A command line tool that allow to stream feed from Twitter to EventHub. This can be used for various real-time streaming scenario. For example, Spark streaming data execution where you stream tweets data into Azure Event Hub using this tool and consume them from Apache Spark cluster in near real-time - [tweet-streaming-eventhub-python](https://github.com/yokawasa/databricks-notebooks/blob/master/notebooks/tweet-streaming-eventhub-python.ipynb)
 
 This project is a fork of the [TwitterCosmosDBFeed](https://github.com/tknandu/TwitterCosmosDBFeed) by [tknandu](https://github.com/tknandu)
 
